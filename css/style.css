@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.navbar h1{
+    font-size: 40px;
+    text-align: center;
+    color: purple;
+    background-color: grey;
+    margin-bottom: 15px;
+
+}
